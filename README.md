@@ -76,16 +76,18 @@
 
 ```ts
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
+   "ownerNumber": ["916201830400@s.whatsapp.net"]
+    "ownerName": "Abhigyan",
+    "instagram" : "https://instagram.com/_the_mr_x_",
+    "botName": "shreya",
+    "footer": "shreya",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
-    "BotKey": "Gsyt6jRJ",
-    "auto_welcomeMsg": true,
-    "auto_leaveMsg": true,    
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "shreya",
+    "audio_di_bagian_menu":"./menu.mp3",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false,    
     "autobio": true,
     "anticall": true,
     "autorespond": false,
